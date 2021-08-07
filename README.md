@@ -1,4 +1,5 @@
-# JW_Player Advanced Builder
-JW Player Advanced Builder
+# JW Player Advanced Builder
+JW Player Builder
 
-# Hosted API: https://paidcodes.albdroid.al/Players/JW_Player_Advanced_Builder/
+# Hosted API
+    https://paidcodes.albdroid.al/Players/JW_Player_Advanced_Builder/
